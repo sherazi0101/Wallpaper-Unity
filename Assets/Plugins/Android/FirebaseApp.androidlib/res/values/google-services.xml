@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_android_client_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">414269385160</string>
+  <string name="google_storage_bucket" translatable="false">pro-kit-wallpaper-app.appspot.com</string>
+  <string name="project_id" translatable="false">pro-kit-wallpaper-app</string>
+  <string name="google_api_key" translatable="false">AIzaSyDWVuIAPCO_t6CO5Jmwg6_mwbsJPPiAa9o</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDWVuIAPCO_t6CO5Jmwg6_mwbsJPPiAa9o</string>
+  <string name="google_app_id" translatable="false">1:414269385160:android:7b6622fdc92a62760438fd</string>
+  <string name="default_android_client_id" translatable="false">414269385160-bqrenblgm935h0tj07nokiqv9b9drfl7.apps.googleusercontent.com</string>
+  <string name="default_web_client_id" translatable="false">414269385160-3gk47rl83fde3fu8ndc57bh7usp8fde5.apps.googleusercontent.com</string>
+</resources>

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/FirebaseController.unity
+    guid: 80e3e85045a586343bd285ec0e35d9f4
+  - enabled: 1
+    path: Assets/Scenes/Main.unity
+    guid: 55333b89c7d8532499144debf30109d9
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 9c4cf0926c4250e45bc35ea5832a92ab, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 17bc4b483e98f62408b7ba9c629a8313, type: 2}
